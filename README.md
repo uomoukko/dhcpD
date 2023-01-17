@@ -2,6 +2,9 @@
 ## dhcp server only for tr-069 protocol
 
 DhcpD will assign only 2 IPs, one for PC and one for DGA/MODEM<BR>
+and it will pass the option43 to the modem, to initiate tr069 protocol<BR>
+MODEM will POST to the specified domain.<BR>
+<BR>
 This program uses macaddresses to detect who is PC and who is DGA<BR>
 and it will assign the right IP to them<BR>
 At the beginning you can select who is PC and who is DGA from the macaddr list<BR>
