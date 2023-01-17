@@ -1,6 +1,7 @@
 # dhcpD
 ## dhcp server only for tr-069 protocol
 
+ONLY 2 IPs WILL BE ASSIGNED FROM THE MACADDR LIST<BR>
 PC/MODEM ip cannot be changed for now.<BR>
 when PC ip has been set to 58.162.0.1, shows PC=1<BR>
 when MODEM ip has been set to 58.162.0.12, shows DGA=1<BR>
