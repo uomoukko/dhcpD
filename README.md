@@ -2,7 +2,7 @@
 ## dhcp server only for tr-069 protocol
 
 DhcpD will assign only 2 IPs, one for PC and one for DGA/MODEM<BR>
-This program uses macaddresses to give the right IP
+This program uses macaddresses to give the right IP<BR>
 You can select them the two devices from the macaddr list<BR>
 PC/ACS ip will be always assigned to 58.162.0.1 and cannot be changed for now.<BR>
 MODEM/DGA ip will be always assigned to 58.162.0.12 and cannot be changed for now.<BR>
