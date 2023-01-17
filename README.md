@@ -14,6 +14,6 @@ When both PC and DGA =1 then they can communicate<BR>
 <BR>  
 dhcpD.exe _option43.txt _macaddr.txt MUST be in the same folder<BR>
 _option43.txt: change first line to your domain<BR>
-_macaddr.txt:  add all your macaddresses in your LAN<BR>
+_macaddr.txt:  add all your macaddresses of your LAN<BR>
 This way you will see the name of the other devices<BR>
 requesting dhcp services in your LAN (they are ignored)<BR>
