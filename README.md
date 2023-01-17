@@ -14,4 +14,6 @@ When both PC and DGA =1 then they can communicate<BR>
 <BR>  
 files _option43.txt and _macaddr.txt must be in the same folder<BR>
 change first line of _option43.txt to your domain<BR>
-add your macaddresses to _macaddr.txt<BR>
+add your macaddresses of your LAN to _macaddr.txt<BR>
+This way you will see the name of the other devices<BR>
+requesting dhcp services in your LAN (they are ignored)<BR>
