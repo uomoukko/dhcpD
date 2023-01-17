@@ -1,7 +1,7 @@
 # dhcpD
 ## dhcp server only for tr-069 protocol
 
-DhcpD will assign only 2 IPsBR>
+DhcpD will assign only 2 IPs<BR>
 You can select them from the macaddr list<BR>
 PC/MODEM ip cannot be changed for now.<BR>
 when PC ip has been set to 58.162.0.1, shows PC=1<BR>
